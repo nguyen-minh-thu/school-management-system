@@ -50,7 +50,7 @@ The application also includes role-based login for different users such as admin
 │   ├── report.pdf
 │   ├── ER_diagram.mwb.bak
 │   ├── ER_diagram.mwb
-│   ├── 17.pdf
+│   ├── 17.pdf (project requirement)
 │   └── ER_diagram.png
 │
 └── README.md
