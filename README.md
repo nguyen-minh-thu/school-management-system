@@ -39,9 +39,6 @@ The application also includes role-based login for different users such as admin
 ├── python/
 │   ├── desktop_app.py
 │   ├── db_config.py
-│   ├── build
-│   ├── dist
-|   |   └── desktop_app
 │   ├── desktop_app.spec
 │   └── generate_sample_data.py
 │
