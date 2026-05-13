@@ -31,7 +31,7 @@ The application also includes role-based login for different users such as admin
 ## 3. Project Structure
 
 ```text
-11245938_NguyenMinhThu_FinalProject/
+school-management-system/
 │
 ├── sql/
 │   ├── schema.sql
