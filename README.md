@@ -81,7 +81,7 @@ Update your MySQL password:
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="YourPassword",
+    password="PASSWORD",
     database="school_management"
 )
 ```
