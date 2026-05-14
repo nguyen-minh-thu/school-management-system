@@ -157,6 +157,7 @@ Password: student123
 ## 6. Notes
 
 * MySQL Server must be installed and running before opening the application.
+* Users do not need to run Python scripts manually. However, because the project uses MySQL as required, MySQL Server must be installed on the target machine. The database must also be created and initialized before the application can connect successfully.
 * The application uses Tkinter for the desktop interface.
 * Sample data is generated using Python Faker.
 * Passwords are stored as plain text for demo purposes only.
