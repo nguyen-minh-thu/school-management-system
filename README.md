@@ -1,20 +1,17 @@
 # School Management System
-## Link app
-```
-https://drive.google.com/file/d/1aaSvM5OaX8XK9lDrcVRNxHcmiOwRxOEV/view?usp=sharing
-```
-
----
 
 ## Demo Video
 
 YouTube demo link:
 
 ```text
-https://www.youtube.com/your-demo-link
+https://youtu.be/_tMwnfpAbFM
 ```
 
----
+## Link app
+```
+https://drive.google.com/file/d/1aaSvM5OaX8XK9lDrcVRNxHcmiOwRxOEV/view?usp=sharing
+```
 
 ## 1. Project Overview
 
