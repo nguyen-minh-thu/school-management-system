@@ -4,6 +4,18 @@
 https://drive.google.com/file/d/1e6Cg9LfNSofCNABqzzpEuYO4Gfl0-vsl/view?usp=sharing
 ```
 
+---
+
+## Demo Video
+
+YouTube demo link:
+
+```text
+https://www.youtube.com/your-demo-link
+```
+
+---
+
 ## 1. Project Overview
 
 The School Management System is a database management project developed using MySQL and Python Tkinter.  
@@ -142,19 +154,7 @@ Username: student01
 Password: student123
 ```
 
----
-
-## 6. Demo Video
-
-YouTube demo link:
-
-```text
-https://www.youtube.com/your-demo-link
-```
-
----
-
-## 7. Notes
+## 6. Notes
 
 * MySQL Server must be installed and running before opening the application.
 * The application uses Tkinter for the desktop interface.
